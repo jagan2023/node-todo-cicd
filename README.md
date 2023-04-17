@@ -14,3 +14,4 @@ Run these commands:
 `node app.js`
 
 'run by docker compose"
+good luck
